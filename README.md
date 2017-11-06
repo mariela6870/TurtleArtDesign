@@ -1,2 +1,2 @@
 # TurtleArtDesign
-/mariela6870/TurtleArtDesign/edit/master/README.md
+<img src="https://github.com/mariela6870/TurtleArtDesign/blob/master/screenshot.png"></img>
